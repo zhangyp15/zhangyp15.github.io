@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Dimension embeddings for monocular 3d object detection"
+date: 2022-09-01 12:00:00 +08:00
+image: images/research/BEVerse.jpg
+categories: research
+authors: "<strong>Yunpeng Zhang</strong>, Zheng Zhu, Wenzhao Zheng, Junjie Huang, Guan Huang, Jie Zhou, Jiwen Lu"
+venue: "Arxiv"
+arxiv: https://arxiv.org/pdf/2205.09743
+code: https://github.com/zhangyp15/BEVerse
+website: https://github.com/zhangyp15/BEVerse
+---
+We present BEVerse, the first unified framework for 3D perception and prediction based on multicamera systems. BEVerse features
+in producing spatio-temporal Birds-Eye-View (BEV) representations from multi-camera videos and jointly reasoning
+about multiple tasks for vision-centric autonomous driving. We show that the
+temporal information improves 3D object detection and semantic map construction, while the multi-task learning can
+implicitly benefit motion prediction.
