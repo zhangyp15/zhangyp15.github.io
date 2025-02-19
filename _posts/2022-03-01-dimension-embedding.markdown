@@ -10,4 +10,4 @@ arxiv: http://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dimension_Embe
 code: https://github.com/zhangyp15/MonoFlex
 website: 
 ---
-We introduce a general method to learn appropriate embeddings for dimension estimation in monocular 3D object detection, by utilizing the dimension-distance-guided contrastive learning in the embedding space and learning the representative shape templates. Experimental results on the well-established KITTI dataset demonstrate the proposed method of dimension embeddings can bring consistent improvements with negligible computation cost overhead.
+We introduce a general method to learn appropriate embeddings for dimension estimation in monocular 3D object detection, by utilizing the dimension-distance-guided contrastive learning in the embedding space and learning the representative shape templates.

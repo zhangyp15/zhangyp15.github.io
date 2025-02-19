@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction"
+title: "Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark"
 date: 2023-03-01 12:00:00 +08:00
-image: images/research/GaussianFormer-2.png
+image: images/research/ASAP.gif
 categories: research
-authors: "Yuanhui Huang, Wenzhao Zheng, <strong>Yunpeng Zhang</strong>, Jie Zhou, Jiwen Lu"
-venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023."
-arxiv: https://arxiv.org/abs/2302.07817
-code: https://github.com/wzzheng/TPVFormer
-website: https://wzzheng.net/TPVFormer/
+authors: "Xiaofeng Wang, Zheng Zhu, <strong>Yunpeng Zhang</strong>, Guan Huang, Yun Ye, Wenbo Xu, Ziwei Chen, Xingang Wang"
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+arxiv: https://arxiv.org/abs/2212.08914
+code: https://github.com/JeffWang987/ASAP
+website: https://github.com/JeffWang987/ASAP
 ---
-Given only surround-camera motorcycle RGB images barrier as inputs, our model (trained using trailer only sparse traffic cone LiDAR point supervision) can predict the semantic occupancy for all volumes in the 3D space.
+We propose the Autonomousdriving StreAming Perception (ASAP) benchmark, which is the first benchmark to evaluate the online performance of vision-centric perception in autonomous driving.

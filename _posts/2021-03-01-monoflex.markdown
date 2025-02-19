@@ -10,4 +10,4 @@ arxiv: https://arxiv.org/abs/2104.02323
 code: https://github.com/zhangyp15/MonoFlex
 website: https://github.com/zhangyp15/MonoFlex
 ---
-MonoFlex introduces a decoupling mechanism for handling truncated obstacles and an uncertainty-guided ensembling strategy for enhanced precision in depth estimation. It achieved over 20% improvement over previous SoTA methods with real-time efficiency.
+MonoFlex introduces a decoupling mechanism for handling truncated obstacles and an uncertainty-guided ensembling strategy for enhanced precision in depth estimation.

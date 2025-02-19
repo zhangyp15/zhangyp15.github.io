@@ -2,10 +2,10 @@
 layout: post
 title: "Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction"
 date: 2023-03-01 12:00:00 +08:00
-image: images/research/GaussianFormer-2.png
+image: images/research/TPVFormer.gif
 categories: research
 authors: "Yuanhui Huang, Wenzhao Zheng, <strong>Yunpeng Zhang</strong>, Jie Zhou, Jiwen Lu"
-venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023."
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 arxiv: https://arxiv.org/abs/2302.07817
 code: https://github.com/wzzheng/TPVFormer
 website: https://wzzheng.net/TPVFormer/
