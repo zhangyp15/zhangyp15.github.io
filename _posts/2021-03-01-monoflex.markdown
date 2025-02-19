@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Objects are different: Flexible monocular 3d object detection"
+date: 2021-03-01 12:00:00 +08:00
+image: images/research/MonoFlex.png
+categories: research
+authors: "<strong>Yunpeng Zhang</strong>, Jiwen Lu, Jie Zhou"
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021."
+arxiv: https://arxiv.org/abs/2104.02323
+code: https://github.com/zhangyp15/MonoFlex
+---
+MonoFlex introduces a decoupling mechanism for handling truncated obstacles and an uncertainty-guided ensembling strategy for enhanced precision in depth estimation. It achieved over 20% improvement over previous SoTA methods with real-time efficiency.

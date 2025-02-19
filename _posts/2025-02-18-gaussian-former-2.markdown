@@ -5,7 +5,7 @@ date: 2025-02-18 12:00:00 +08:00
 image: images/research/GaussianFormer-2.png
 categories: research
 authors: "Yuanhui Huang, Amonnut Thammatadatrakoon, Wenzhao Zheng, <strong>Yunpeng Zhang</strong>, Dalong Du, Jiwen Lu"
-venue: "arXiv"
+venue: "arXiv, 2024"
 arxiv: https://arxiv.org/abs/2412.04384
 code: https://github.com/huang-yh/GaussianFormer
 website: https://wzzheng.net/GaussianFormer
