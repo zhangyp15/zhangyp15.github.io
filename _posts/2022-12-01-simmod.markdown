@@ -1,0 +1,13 @@
+---
+layout: post
+title: "A simple baseline for multi-camera 3d object detection"
+date: 2023-01-01 12:00:00 +08:00
+image: images/research/SimMOD.jpg
+categories: research
+authors: "<strong>Yunpeng Zhang</strong>, Wenzhao Zheng, Zheng Zhu, Guan Huang, Jiwen Lu, Jie Zhou"
+venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+arxiv: https://arxiv.org/abs/2208.10035
+code: https://github.com/zhangyp15/SimMOD
+website: https://github.com/zhangyp15/SimMOD
+---
+We propose a two-stage method for 3D object detection with surrounding cameras, which utilizes the proposals from monocular methods for end-to-end refinement with the transformer decoder.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Graphad: Interaction scene graph for end-to-end autonomous driving"
+date: 2024-09-01 12:00:00 +08:00
+image: images/research/GraphAD.jpg
+categories: research
+authors: "<strong>Yunpeng Zhang</strong>, Deheng Qian, Ding Li, Yifeng Pan, Yong Chen, Zhenbao Liang, Zhiyao Zhang, Shurui Zhang, Hongxu Li, Maolei Fu, Yun Ye, Zhujin Liang, Yi Shan, Dalong Du"
+venue: "Arxiv"
+arxiv: https://arxiv.org/pdf/2403.19098
+---
+We propose the Interaction Scene Graph (ISG) as a unified method to model the interactions among the ego-vehicle, road agents, and map elements.

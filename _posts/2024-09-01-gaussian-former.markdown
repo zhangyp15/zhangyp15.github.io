@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction"
-date: 2024-09-01 12:00:00 +08:00
+date: 2024-05-01 12:00:00 +08:00
 image: images/research/GaussianFormer.png
 categories: research
 authors: "Yuanhui Huang, Amonnut Thammatadatrakoon, Wenzhao Zheng, <strong>Yunpeng Zhang</strong>, Dalong Du, Jiwen Lu"
